@@ -43,8 +43,8 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Recursos de matemáticas'
-copyright = u'2019, Jose Antonio Alvarez Cubero'
+project = u'Índice de adaptación climático'
+copyright = u'2022, Jose Antonio Alvarez Cubero'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
