@@ -1,5 +1,5 @@
 Índice de cambio climático
-==========================
+##########################
 
 .. .. _cover:
 
@@ -25,7 +25,7 @@
 
 
 Índices y tablas
-================
+****************
 
 * :ref:`genindex`
 * :ref:`modindex`

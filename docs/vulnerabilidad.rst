@@ -1,8 +1,8 @@
 Indicadores de vulnerabilidad
-=============================
+#############################
 
 Equidad social y cambio climático
----------------------------------
+*********************************
 
 Los países menos responsables del cambio climático son los más vulnerables a los impactos negativos y los que menos recursos tienen para adaptarse a sus consecuencias. Para promover la justicia ambiental y la equidad social, hay que tener en cuenta la vulnerabilidad y la capacidad de adaptación de la población y de los países a los impactos del cambio climático e integrarla en las políticas públicas y en los procedimientos de regulación ambiental.
 

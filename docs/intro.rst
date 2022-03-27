@@ -1,13 +1,13 @@
 Introducción
-============
+############
 
 El Proyecto de Divulgación del Carbono (CDP)
---------------------------------------------
+********************************************
 
 El Proyecto de Divulgación del Carbono (CDP) es una organización mundial sin ánimo de lucro que impulsa a empresas y gobiernos a reducir sus emisiones de gases de efecto invernadero, salvaguardar los recursos hídricos y proteger los bosques. Cada año, CDP ayuda a las empresas, ciudades, estados y regiones a medir y gestionar sus riesgos y oportunidades en materia de cambio climático mediante la aplicación de procesos de divulgación. La información suministrada en las respuestas a los informes anuales se utiliza para calificar a las empresas y ciudades en su camino hacia la divulgación. De este modo, CDP alberga el mayor y más completo conjunto de datos del mundo sobre la acción medioambiental.
 
 Problema de analítica de datos
-------------------------------
+******************************
 
 El problema de analítica de datos resuelta en este proyecto consiste en explorar y analizar la información social y medioambiental proporcionada a CDP por las empresas y ciudades divulgadoras con el fin de ayudar a identificar soluciones para hacer frente a los impactos del cambio climático. Las principales preguntas que podemos plantearnos son:
 
@@ -22,7 +22,7 @@ Para responder a estas preguntas, se definen dos objetivos principales:
 * Aprovechar las fuentes de datos externas y analizar la intersección entre las cuestiones medioambientales y sociales.
 
 El papel de las ciudades en la lucha por el cambio climático
-------------------------------------------------------------
+************************************************************
 
 Las ciudades se consideran los motores del desarrollo económico nacional. Con el rápido aumento de la urbanización y las consiguientes emisiones de gases de efecto invernadero, las ciudades deben realizar importantes esfuerzos para diseñar y aplicar políticas de adaptación al cambio climático. Para desarrollar estrategias eficaces, es necesario recopilar datos fiables y estandarizados. Aunque se han desarrollado varios programas de recopilación de datos a escala nacional, se necesitan más esfuerzos para recopilar datos a escala de las ciudades y abordar las disparidades de la población de las ciudades en su capacidad de adaptación al cambio climático. Por lo tanto, varias iniciativas están integrando objetivos a escala de las ciudades y pretenden ayudar a las organizaciones locales a abordar el cambio climático mediante la recopilación de datos y la creación de indicadores y sistemas de puntuación de las ciudades (CDP, C40 Cities, United 4 Smart Sustainable Cities...). Estos programas destacan especialmente tres cuestiones:
 

@@ -1,5 +1,5 @@
 Índice de cambio climático
---------------------------
+**************************
 
 Aquí se ofrece una descripción general de la solución propuesta para el Hackathon for Good, organizado conjuntamente por Amazon Web Services e Intel. 
 
@@ -9,7 +9,7 @@ El panel de Amazon QuickSight donde se ilustra la analítica de datos realizada 
 
 
 Desafío elegido y el valor de la solución en su resolución
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+==========================================================
 
 La solución se engloba dentro de la temática de **Sostenibilidad** ofreciendo una visualización de modelo de datos sobre un área de sostenibilidad o medio ambiente. Con la solución ofrecida se pretende dar una respuesta a los objetivos 11 (Ciudades y comunidades sostenibles) y 13 (Acción por el clima) de desarrollo sostenible definidos por las `Naciones Unidas <https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/>`_.
 
@@ -30,7 +30,7 @@ Con mi solución ofrezco una serie de KPIs que relacionan los problemas medioamb
 Utilizando estas medidas, tenemos los elementos necesarios para definir las estrategias que pueden llevar a cabo las ciudades para mejorar su sostenibilidad y favorecer la lucha contra el cambio climático.
 
 Servicios de AWS e Intel utilizados
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+===================================
 
 La siguiente imagen ilustra los servicios de AWS usados (Amazon S3, AWS Glue, Amazon Athena y Amazon Quicksight). Los procesadores Intel proporcionan la base de todos estos servicios implementandos en la nube de AWS. 
 
