@@ -9,7 +9,7 @@ El Proyecto de Divulgación del Carbono (CDP) es una organización mundial sin �
 Problema de analítica de datos
 ******************************
 
-El problema de analítica de datos resuelta en este proyecto consiste en explorar y analizar la información social y medioambiental proporcionada a CDP por las empresas y ciudades divulgadoras con el fin de ayudar a identificar soluciones para hacer frente a los impactos del cambio climático. Las principales preguntas que podemos plantearnos son:
+El problema de analítica de datos resuelto en este proyecto consiste en explorar y analizar la información social y medioambiental proporcionada a CDP por las empresas y ciudades divulgadoras con el fin de ayudar a identificar soluciones para hacer frente a los impactos del cambio climático. Las principales preguntas que podemos plantearnos son:
 
 * Ayudar a las ciudades a adaptarse: *¿Cómo ayudamos a las ciudades a adaptarse a un clima que cambia rápidamente de forma socialmente equitativa?*.
 
@@ -20,6 +20,30 @@ Para responder a estas preguntas, se definen dos objetivos principales:
 * Calcular los KPIs relacionados con las cuestiones medioambientales y sociales y demostrar si las objetivos de las ciudades tienen en cuenta estos factores.
 
 * Aprovechar las fuentes de datos externas y analizar la intersección entre las cuestiones medioambientales y sociales.
+
+En esta solución se han analizado las respuestas dadas por las ciudades al cuestionario elaborado por CDP. Este se compone de 11 secciones que abordan múltiples dimensiones de las acciones de adaptación ambiental y climática de las ciudades:
+
+* Peligros climáticos y vulnerabilidad: Descripción de los peligros climáticos más importantes a los que se enfrentan las ciudades y los factores que afectan a la capacidad de adaptación.
+
+* Adaptación: Principales acciones de adaptación emprendidas para hacer frente al cambio climático y reducir el riesgo y la vulnerabilidad a los peligros climáticos.
+
+* Riesgos sociales: Riesgos sociales derivados del cambio climático.
+
+* Emisiones en toda la ciudad: Resumen de las emisiones de gases de efecto invernadero en toda la ciudad por diversos sectores y ámbitos según los inventarios seleccionados.
+
+* Reducción de emisiones: Descripción de los objetivos de reducción de emisiones y de las acciones de mitigación y planificación.
+
+* Oportunidades: Descripción de las oportunidades resultantes de abordar el cambio climático y las colaboraciones con las empresas.
+
+* Energía: Descripción de la combinación de fuentes de la electricidad consumida en la ciudad y del objetivo de energía renovable.
+
+* Transporte: Detalles de la cuota del modo de transporte y la concentración de gases contaminantes del aire en toda la ciudad.
+
+* Alimentación: Indicadores clave de rendimiento del consumo de alimentos y descripción de las políticas y acciones de alimentación sostenible.
+
+* Residuos: Cantidad de generación, recogida y tratamiento de residuos sólidos.
+
+* Agua: Descripción de la fuente de suministro/seguridad del agua y acciones y estrategia de gestión del agua.
 
 El papel de las ciudades en la lucha por el cambio climático
 ************************************************************

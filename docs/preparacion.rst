@@ -29,7 +29,7 @@ Los indicadores categorizados dentro del índice de preparación participan en l
 
 * Uso de fuentes de energía renovable
 
-* Definición de políticas de consumo de comida sostenible 
+* Definición de políticas de consumo de alimentación sostenible 
 
 * Inventario de emisiones en la ciudad
 
