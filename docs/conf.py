@@ -196,7 +196,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  ('index', 'indiceclima.tex', u'Indice de cambio climático',
+  ('index', 'indiceclima.tex', u'Indice de cambio climatico',
    u'Jose Antonio Alvarez Cubero', 'manual'),
 ]
 
@@ -226,7 +226,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    ('index', 'indiceclimabook', u'Indice de cambio climático'',
+    ('index', 'indiceclimabook', u'Indice de cambio climatico'',
      [u'Jose Antonio Alvarez Cubero'], 1)
 ]
 
@@ -240,8 +240,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  ('index', 'indiceclimabook', u'Indice de cambio climático'',
-   u'Indice de cambio climático'', 'Jose Antonio Alvarez Cubero', 'Indice de cambio climático'.',
+  ('index', 'indiceclimabook', u'Indice de cambio climatico'',
+   u'Indice de cambio climatico'', 'Jose Antonio Alvarez Cubero', 'Indice de cambio climatico'.',
    'Miscellaneous'),
 ]
 
