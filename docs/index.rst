@@ -19,6 +19,7 @@
    Prefacio <prefacio>
    Introducción <intro>
    Indicadores de vulnerabilidad <vulnerabilidad>
+   Indicadores de preparación <preparacion>
    Vulnerabilidad vs. Preparación <vulnprep>
 
    *
