@@ -1,11 +1,11 @@
-Índice de cambio climático
-**************************
+Índice de adaptación climático
+******************************
 
 Aquí se ofrece una descripción general de la solución propuesta para el Hackathon for Good, organizado conjuntamente por Amazon Web Services e Intel. 
 
 Se han definido una serie de key performance indicators (KPIs) que nos permiten relacionar los problemas medioambiantes y sociales de las ciudades a nivel mundial. Para ello, se ha hecho uso de un conjunto de datos abiertos `2020 - Full Cities Dataset <https://data.cdp.net/Governance/2020-Full-Cities-Dataset/eja6-zden>`_ ofrecidos por `CDP <https://www.cdp.net/es>`_ y una metodología de análisis definida por Saif Shabou. Estos datos se han recogido gracias a *CDP and ICLEI - Local Governments for Sustainability*.
 
-El panel de Amazon QuickSight donde se ilustra la analítica de datos realizada está en `Índice de cambio climático <https://us-east-1.quicksight.aws.amazon.com/sn/accounts/503201639695/dashboards/d535cd35-f143-4df9-b854-b626f904527f?directory_alias=jaacubero>`_. Un vídeo corto donde se muestra la solución propuesta está en `Índice de cambio climático <https://us-east-1.quicksight.aws.amazon.com/sn/accounts/503201639695/dashboards/d535cd35-f143-4df9-b854-b626f904527f?directory_alias=jaacubero>`_. La siguiente URL describe de forma más detallada el trabajo realizado para desarrollar la solución: `Índice de cambio climático <https://indice-adaptacion-climatico.readthedocs.io/en/latest/>`_.
+El panel de Amazon QuickSight donde se ilustra la analítica de datos realizada está en `Índice de adaptación climático <https://us-east-1.quicksight.aws.amazon.com/sn/accounts/503201639695/dashboards/d535cd35-f143-4df9-b854-b626f904527f?directory_alias=jaacubero>`_. Un vídeo corto donde se muestra la solución propuesta está en `Índice de adaptación climático <https://us-east-1.quicksight.aws.amazon.com/sn/accounts/503201639695/dashboards/d535cd35-f143-4df9-b854-b626f904527f?directory_alias=jaacubero>`_. La siguiente URL describe de forma más detallada el trabajo realizado para desarrollar la solución: `Índice de adaptación climático <https://indice-adaptacion-climatico.readthedocs.io/en/latest/>`_.
 
 Desafío elegido y el valor de la solución en su resolución
 ==========================================================
@@ -39,4 +39,8 @@ La siguiente imagen ilustra los servicios de AWS usados (Amazon S3, AWS Glue, Am
 
 Las razones que me han llevado a utilizar estos servicios son:
 
-* **Amazon QuickSight** es una excelente herramienta de visualización con múltiples conectores, entre los que se encuentrsa Amazon Athena. Al formar parte del ecosistema de AWS, la integración con otros servicios de AWS como S3, Athena o RDS está garantizada. Amazon QuickSight usa SPICE, el cual es un motor de cálculo en memoria. Esto permite que, una vez que importemos los datos desde su origen, podamos tenerlos almacenados en memoria, lo que se traduce en un mayor rendimiento a la hora de visualizar y navegar por los diferentes cuadros de mando. Importar los datos es realmente sencillo, mediante un menú contextual dependiendo de la fuente de origen y se añadirán los datos de conexión y se cargarán los datos, pasando a un editor. Gracias a este editor podemos formatear campos, cambiar el tipo de datos, crear campos calculados o incluso unir varias fuentes de datos de una forma sencilla. Esta última funcionalidad es muy potente, ya que permite cruzar fuentes de datos de orígenes diferentes directamente en el editor de QuickSight.
+* **Amazon QuickSight** es una excelente herramienta de visualización con múltiples conectores, entre los que se encuentrsa Amazon Athena. Al formar parte del ecosistema de AWS, la integración con otros servicios de AWS como S3, Athena o RDS está garantizada. 
+
+* Amazon QuickSight usa SPICE, el cual es un motor de cálculo en memoria. Esto permite que, una vez que importemos los datos desde su origen, podamos tenerlos almacenados en memoria, lo que se traduce en un mayor rendimiento a la hora de visualizar y navegar por los diferentes cuadros de mando. 
+
+* Importar los datos es realmente sencillo, mediante un menú contextual dependiendo de la fuente de origen y se añadirán los datos de conexión y se cargarán los datos, pasando a un editor. Gracias a este editor podemos formatear campos, cambiar el tipo de datos, crear campos calculados o incluso unir varias fuentes de datos de una forma sencilla. Esta última funcionalidad es muy potente, ya que permite cruzar fuentes de datos de orígenes diferentes directamente en el editor de QuickSight.
