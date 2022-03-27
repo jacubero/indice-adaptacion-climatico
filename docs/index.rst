@@ -18,6 +18,7 @@
 
    Prefacio <prefacio>
    Introducción <intro>
+   Indicadores de vulnerabilidad <vulnerabilidad>
 
    *
 
