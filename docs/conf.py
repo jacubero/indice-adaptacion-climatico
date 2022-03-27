@@ -241,7 +241,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'indiceclimabook', u'Indice de cambio climatico',
-   u'Indice de cambio climatico', 'Jose Antonio Alvarez Cubero', 'Indice de cambio climatico'.',
+   u'Indice de cambio climatico', 'Jose Antonio Alvarez Cubero', 'Indice de cambio climatico',
    'Miscellaneous'),
 ]
 
