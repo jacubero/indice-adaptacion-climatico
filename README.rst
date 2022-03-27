@@ -5,15 +5,14 @@ Aquí se ofrece una descripción general de la solución propuesta para el Hacka
 
 Se han definido una serie de key performance indicators (KPIs) que nos permiten relacionar los problemas medioambiantes y sociales de las ciudades a nivel mundial. Para ello, se ha hecho uso de un conjunto de datos abiertos `2020 - Full Cities Dataset <https://data.cdp.net/Governance/2020-Full-Cities-Dataset/eja6-zden>`_ ofrecidos por `CDP <https://www.cdp.net/es>`_ y una metodología de análisis definida por Saif Shabou. Estos datos se han recogido gracias a *CDP and ICLEI - Local Governments for Sustainability*.
 
-El panel de Amazon QuickSight donde se ilustra la analítica de datos realizada está en `Índice de cambio climático <https://us-east-1.quicksight.aws.amazon.com/sn/accounts/503201639695/dashboards/d535cd35-f143-4df9-b854-b626f904527f?directory_alias=jaacubero>`_. Un vídeo corto donde se muestra la solución propuesta está en `Índice de cambio climático <https://us-east-1.quicksight.aws.amazon.com/sn/accounts/503201639695/dashboards/d535cd35-f143-4df9-b854-b626f904527f?directory_alias=jaacubero>`_.
-
+El panel de Amazon QuickSight donde se ilustra la analítica de datos realizada está en `Índice de cambio climático <https://us-east-1.quicksight.aws.amazon.com/sn/accounts/503201639695/dashboards/d535cd35-f143-4df9-b854-b626f904527f?directory_alias=jaacubero>`_. Un vídeo corto donde se muestra la solución propuesta está en `Índice de cambio climático <https://us-east-1.quicksight.aws.amazon.com/sn/accounts/503201639695/dashboards/d535cd35-f143-4df9-b854-b626f904527f?directory_alias=jaacubero>`_. La siguiente URL describe de forma más detallada el trabajo realizado para desarrollar la solución: `Índice de cambio climático <https://indice-adaptacion-climatico.readthedocs.io/en/latest/>`_.
 
 Desafío elegido y el valor de la solución en su resolución
 ==========================================================
 
 La solución se engloba dentro de la temática de **Sostenibilidad** ofreciendo una visualización de modelo de datos sobre un área de sostenibilidad o medio ambiente. Con la solución ofrecida se pretende dar una respuesta a los objetivos 11 (Ciudades y comunidades sostenibles) y 13 (Acción por el clima) de desarrollo sostenible definidos por las `Naciones Unidas <https://www.un.org/sustainabledevelopment/es/objetivos-de-desarrollo-sostenible/>`_.
 
-.. .. image:: /docs/images/ods.png
+.. .. image:: ods.png
 ..    :width: 200 px
 ..    :align: center
 
@@ -34,7 +33,7 @@ Servicios de AWS e Intel utilizados
 
 La siguiente imagen ilustra los servicios de AWS usados (Amazon S3, AWS Glue, Amazon Athena y Amazon Quicksight). Los procesadores Intel proporcionan la base de todos estos servicios implementandos en la nube de AWS. 
 
-.. .. image:: /docs/images/AWS.png
+.. .. image:: AWS.png
 ..    :width: 200 px
 ..    :align: center
 
