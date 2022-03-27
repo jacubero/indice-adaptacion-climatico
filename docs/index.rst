@@ -3,9 +3,9 @@
 
 .. .. _cover:
 
-.. .. image:: /images/sostenibilidad.png
-..    :width: 200 px
-..    :align: center
+.. image:: /images/sostenibilidad.png
+    :width: 200 px
+    :align: center
 
 
 
