@@ -1,11 +1,11 @@
-Índice de adaptación climático
-******************************
+Índice de vulnerabilidad y adaptación al cambio climático
+*********************************************************
 
 Aquí se ofrece una descripción general de la solución propuesta para el Hackathon for Good, organizado conjuntamente por Amazon Web Services e Intel. 
 
 Se han definido una serie de key performance indicators (KPIs) que nos permiten relacionar los problemas medioambiantes y sociales de las ciudades a nivel mundial. Para ello, se ha hecho uso de un conjunto de datos abiertos `2020 - Full Cities Dataset <https://data.cdp.net/Governance/2020-Full-Cities-Dataset/eja6-zden>`_ ofrecidos por `CDP <https://www.cdp.net/es>`_ y una metodología de análisis definida por Saif Shabou. Estos datos se han recogido gracias a *CDP and ICLEI - Local Governments for Sustainability*.
 
-El panel de Amazon QuickSight donde se ilustra la analítica de datos realizada está en `Panel QuickSight <https://us-east-1.quicksight.aws.amazon.com/sn/accounts/503201639695/dashboards/d535cd35-f143-4df9-b854-b626f904527f?directory_alias=jaacubero>`_. Un vídeo corto donde se muestra la solución propuesta está en `Video explicativo <https://youtu.be/vHs10-8lCnk>`_. La siguiente URL describe de forma más detallada el trabajo realizado para desarrollar la solución: `Índice de adaptación climático <https://indice-adaptacion-climatico.readthedocs.io/en/latest/>`_.
+El panel de Amazon QuickSight donde se ilustra la analítica de datos realizada está en `Panel QuickSight <https://us-east-1.quicksight.aws.amazon.com/sn/accounts/503201639695/dashboards/d535cd35-f143-4df9-b854-b626f904527f?directory_alias=jaacubero>`_. Un vídeo corto donde se muestra la solución propuesta está en `Video explicativo <https://youtu.be/vHs10-8lCnk>`_. La siguiente URL describe de forma más detallada el trabajo realizado para desarrollar la solución: `Índice de vulnerabilidad y adaptación al cambio climático <https://indice-adaptacion-climatico.readthedocs.io/en/latest/>`_.
 
 Desafío elegido y el valor de la solución en su resolución
 ==========================================================
