@@ -43,7 +43,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Índice de adaptación climático'
+project = u'Indice de vulnerabilidad y adaptación al cambio climático'
 copyright = u'2022, Jose Antonio Alvarez Cubero'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -176,7 +176,7 @@ html_static_path = ['_static']
 #html_file_suffix = None
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'Recursos de matemáticas'
+htmlhelp_basename = 'Indice de vulnerabilidad y adaptación al cambio climático'
 
 
 # -- Options for LaTeX output ---------------------------------------------

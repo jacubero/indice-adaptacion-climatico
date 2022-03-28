@@ -1,5 +1,5 @@
-Índice de cambio climático
-##########################
+Indice de vulnerabilidad y adaptación al cambio climático
+#########################################################
 
 .. .. _cover:
 
